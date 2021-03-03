@@ -1,3 +1,11 @@
+@import "./app.css" screen;
+@import "./app-header.css" screen;
+@import "./search-panel.css" screen;
+@import "./post-add-form.css" screen;
+@import "./post-list.css" screen;
+@import "./post-list-item.css" screen;
+@import "./post-status-filter.css" screen;
+
 body {
   margin: 50px 0 0 0;
   padding: 0;
@@ -13,3 +21,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
